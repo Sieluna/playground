@@ -1,3 +1,6 @@
 [submodule "dependencies/wasm-micro-runtime"]
 	path = dependencies/wasm-micro-runtime
 	url = https://github.com/bytecodealliance/wasm-micro-runtime.git
+[submodule "dependencies/wamr-app-framework"]
+	path = dependencies/wamr-app-framework
+	url = https://github.com/bytecodealliance/wamr-app-framework.git
